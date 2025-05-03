@@ -1,0 +1,6 @@
+# .gitignore file
+*.class
+*.log
+*.jar
+*.sqlite
+lib/
